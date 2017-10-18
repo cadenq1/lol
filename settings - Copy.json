@@ -1,0 +1,70 @@
+// Example
+{
+	"365943655581876246": {
+		"welcome": {
+			"enabled": true,
+			"channel": "365943655581876249",
+			"message": "Welcome {} to The Palace!"
+		},
+		"staff": [
+			"365938029640024064"
+		],
+		"tags": {
+			"gay": [
+				"test",
+				"lol"
+			],
+			"lmao": [
+				"https://media.discordapp.net/attachments/365943655581876249/369230349726646282/0165019d7a204113628a9c49d2c80dc3.jpg"
+			],
+			"lewd": [
+				"https://media.discordapp.net/attachments/365955717087363073/369325066183507969/zAp2LzJ.jpg"
+			]
+		},
+		"assignable": [
+			"Dom",
+			"Sub",
+			"Cyan",
+			"Purple",
+			"Slut",
+			"Gamer",
+			"Red",
+			"Light Red",
+			"Orange",
+			"Deep Orange",
+			"Yellow",
+			"Amber",
+			"Green",
+			"Light Green",
+			"Lime",
+			"Teal",
+			"Blue",
+			"Light Blue",
+			"Indigo",
+			"Deep Purple",
+			"Peach",
+			"Pink",
+			"Hot Pink",
+			"Brown",
+			"Deep Brown",
+			"Grey",
+			"Blue Grey",
+			"Black",
+			"NSFW",
+			"Switch",
+			"Toy",
+			"Mommy",
+			"Daddy",
+			"Kiddy",
+			"Cuddle Master",
+			"Hug Lord",
+			"Furry",
+			"Cow",
+			"Pet",
+			"Tease Subject",
+			"Neko",
+			"Cute Master"
+		],
+		"prefix": "]"
+	}
+}
